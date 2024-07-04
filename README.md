@@ -21,6 +21,7 @@ O objetivo deste projeto é realizar uma análise exploratória de dados com bas
 
 - **Preparação da base de dados:** Transformação de variáveis e criação de novas colunas, como data e horário, para facilitar a análise.
 - **Cálculo de métricas descritivas:** Média diária de viagens, duração das viagens (máxima, mínima e média), além de estatísticas por sexo, idade e tipo de assinatura.
+- [Clique aqui](https://github.com/annesantos1990/cicloviajes_project/blob/main/m%C3%A9tricas.sql) para ver o código
 
 **Power BI**
 
