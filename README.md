@@ -34,7 +34,7 @@ Acesse o dashboard desse projeto clicando no link abaixo:
 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjMyMWJhNWMtMmEwNy00MWQyLWE0MGYtMzQxOTZmN2JjYzI4IiwidCI6ImUwZjY3ODE5LTJmNmYtNDg0Mi1hZjVlLTA5ZjI4Y2U4N2U0NyJ9&pageName=97bb87652afe04456c88)
 
 <img width="618" alt="Capa" src="https://github.com/annesantos1990/cicloviajes_project/assets/166059836/d92208b8-f73b-41cd-b067-8e7dcea7464a">
-<img width="684" alt="Dashboard" src="https://github.com/annesantos1990/cicloviajes_project/assets/166059836/ca908e38-6170-4787-8c43-fbf584340a7a">
+<img width="618" alt="Dashboard" src="https://github.com/annesantos1990/cicloviajes_project/assets/166059836/ca908e38-6170-4787-8c43-fbf584340a7a">
 
 
 ### Resultados
